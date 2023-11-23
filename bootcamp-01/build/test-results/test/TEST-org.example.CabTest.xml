@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.CabTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-11-20T08:52:43" hostname="0222LTPB0070312.local" time="0.036">
+  <properties/>
+  <testcase name="calculateAggregate()" classname="org.example.CabTest" time="0.022"/>
+  <testcase name="calculate2kmFare()" classname="org.example.CabTest" time="0.002"/>
+  <testcase name="calculateMinimumFair()" classname="org.example.CabTest" time="0.004"/>
+  <testcase name="calculate2kmFareWithWaitTime()" classname="org.example.CabTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
